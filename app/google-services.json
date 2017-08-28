@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "239110709733",
+    "firebase_url": "https://anotherquiz.firebaseio.com",
+    "project_id": "anotherquiz",
+    "storage_bucket": "anotherquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239110709733:android:fd154d2d22330ccd",
+        "android_client_info": {
+          "package_name": "duc.example.com.anotherquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239110709733-2sv45lq2ebs0bqu7eum3q0v11m45bkjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaq7s4GAOUkir-61nnANZkTBz-6AbWdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
